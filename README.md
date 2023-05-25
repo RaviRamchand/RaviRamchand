@@ -1,4 +1,4 @@
-<h2 align="center">Hello There! Welcome to My GitHub Page👋</h2>
+<h2 align="center">Hello World! Welcome to My GitHub Page👋</h2>
 
 They call me Ravi Ramchand! 🌞<br><br>
 I'm currently in my last year in Software Development and Network Enginnering at Sheridan College 💻 
