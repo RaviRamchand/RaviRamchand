@@ -1,9 +1,15 @@
-<h2 align="center">Hello World! Welcome to My GitHub Page👋</h2>
+<h2 align="center">Hello, World I'm Ravi Ramchand👋</h2>
 
-They call me Ravi Ramchand! 🌞<br><br>
-Software Development and Network Enginnering graduate from Sheridan College 💻 
-<br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviRamchand&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+<p align="center">Full Stack Software Developer 💻</p> 
 
+<!--<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaviRamchand&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<h3 align="center">SKILLS</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,spring,mysql,react,git,github,postman,bootstrap,express,figma,tailwind," />
+  </a>
+</p>
 
 <!--
 **RaviRamchand/RaviRamchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
