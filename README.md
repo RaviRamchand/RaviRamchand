@@ -1,4 +1,4 @@
-<h2 align="center">Hello, World I'm Ravi Ramchand👋</h2>
+<h2 align="center">Hello World, I'm Ravi Ramchand👋</h2>
 
 <p align="center">Full Stack Software Developer 💻</p> 
 
